@@ -19,7 +19,7 @@ public class AnimalScriptable : ScriptableObject
     [Header("STATS")]
     [Range(0, 100)]
     public float Power;
-    [Range(0, 100)]
+    [Range(0, 20)]
     public float Speed;
     [Range(0, 100)]
     public float Flight;

@@ -17,8 +17,8 @@ MonoBehaviour:
   PhysicalAnimal: {fileID: 8658174905659687539, guid: 66b1d5f713eef394e85f012b7d57efa7, type: 3}
   Description: asdasd
   Power: 38
-  Speed: 52.2
+  Speed: 6.2
   Flight: 20.6
   Energy: 66.5
   Intelligence: 56
-  Tier: 6
+  Tier: 0
